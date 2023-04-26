@@ -1,0 +1,17 @@
+{
+  "name": "realstate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "scripts": {
+    "start": "php -S 127.0.0.1:8000 & npm run sass & npm run tw-build",
+    "public": "php -S 0.0.0.0:8000 & npm run sass & npm run tw-build",
+    "sass": "sass --watch assets/scss:assets/css --style compressed",
+    "tw-build": "npx tailwindcss -i assets/tailwind/input.css -o ./assets/tailwind/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
