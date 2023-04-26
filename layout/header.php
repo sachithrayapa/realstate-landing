@@ -17,7 +17,7 @@
 <!-- component -->
 
 <body>
-    <nav class="container w-full lg:pl-44 mt-5 lg:mb-10 mb-2 lg:flex items-center bg-gray-100 z-10 justify-start">
+    <nav class="container w-full lg:pl-44 mt-5 lg:mb-10 mb-2 lg:flex items-center z-10 justify-start">
         <div class="flex justify-between items-center ">
             <span>
                 <img src="../assets/img/header-logo.png" class="inline ml-3 lg:ml-0" alt="">

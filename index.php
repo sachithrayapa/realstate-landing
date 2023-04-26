@@ -1,7 +1,7 @@
 <?php include './layout/header.php' ?>
 <section class="container justify-center mx-auto">
 
-    <div class="lg:grid grid-cols-12 gap-20 -mt-64 lg:mt-0 absolute">
+    <div class="lg:grid grid-cols-12 gap-20 -mt-64 lg:mt-0">
         <div class="col-span-7">
             <div class="lg:text-7xl text-5xl font-medium tracking-wide leading-normal p-5 lg:p-0">Bring Your Family's
                 Happiness to
