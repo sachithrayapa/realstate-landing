@@ -1,5 +1,5 @@
 <?php include './layout/header.php' ?>
-<section class="container justify-center mx-auto">
+<section class="container justify-center mx-auto font-sans lg:pt-6">
 
     <div class="lg:grid grid-cols-12 gap-20 -mt-64 lg:mt-0">
         <div class="col-span-7">

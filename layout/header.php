@@ -17,7 +17,7 @@
 <!-- component -->
 
 <body>
-    <nav class="container w-full lg:pl-44 mt-5 lg:mb-10 mb-2 lg:flex items-center z-10 justify-start">
+    <nav class="container w-full lg:pl-44 mt-5 lg:mb-10 mb-2 lg:flex items-center z-10 justify-start font-serif">
         <div class="flex justify-between items-center ">
             <span>
                 <img src="../assets/img/header-logo.png" class="inline ml-3 lg:ml-0" alt="">
@@ -26,7 +26,7 @@
                     onclick="Burger(this)"></ion-icon></span>
 
         </div>
-        <ul class="lg:pl-24 pl-6 lg:flex items-center text-lg pt-5 lg:pt-0 z-[-1] lg:opacity-100 opacity-0">
+        <ul class="lg:pl-24 pl-6 lg:flex items-center text-xl pt-5 lg:pt-0 z-[-1] lg:opacity-100 opacity-0">
             <li><a href="#" class="mx-10">Home</a></li>
             <li class="relative">
                 <button class="mx-10 my-3 lg:my-0" type="button" class="" id="menu-button" aria-expanded="false"
